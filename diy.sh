@@ -11,3 +11,4 @@ kenzok8_url='https://github.com/kenzok8/openwrt-packages.git'
 git clone $kenzok8_url package/kenzok8
 git clone https://github.com/Lienol/openwrt-package.git package/lienol
 git clone https://github.com/openwrt/luci.git package/openwrt
+git clone https://github.com/pymumu/smartdns.git package/smartdns
